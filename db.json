@@ -1,1 +1,10 @@
-[{"firstName":"ravi","lastName":"thummala","dob":"12/18/1991"},{"firstName":"ravi","lastName":"thummala","dob":"12/18/1991"},{"firstName":"ravi","lastName":"thummala","dob":"12/18/1991"}]
+{
+    "requestName":"george",
+    "similarity":{
+        "MURADOV Georgiy L'vovich":61.1111,
+        "James George Pan":56.222,
+        "Danayalo George Prozorov":55.27,
+        "George Peter":65.22,
+        "Stephen George Chaung":69.111
+    }
+}
